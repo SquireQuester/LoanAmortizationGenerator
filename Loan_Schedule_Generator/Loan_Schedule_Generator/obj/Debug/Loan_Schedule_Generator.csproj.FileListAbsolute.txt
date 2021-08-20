@@ -1,0 +1,12 @@
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\bin\Debug\Loan_Schedule_Generator.exe.config
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\bin\Debug\Loan_Schedule_Generator.exe
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\bin\Debug\Loan_Schedule_Generator.pdb
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.csproj.AssemblyReference.cache
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.Properties.Resources.resources
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.csproj.GenerateResource.cache
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.exe
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.pdb
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.DashboardForm.resources
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.LoanGeneratorForm.resources
+C:\Users\Quest\source\repos\Loan_Schedule_Generator\Loan_Schedule_Generator\obj\Debug\Loan_Schedule_Generator.AmortizationScheduleViewerForm.resources
